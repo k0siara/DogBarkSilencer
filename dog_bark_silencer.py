@@ -1,6 +1,7 @@
 from playsound import playsound
 import RPi.GPIO as GPIO
 import time
+import random
 
 sounds = [
     "sound1.mp3",
